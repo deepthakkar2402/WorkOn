@@ -7,10 +7,10 @@
                               18:00</a>
                       </li>
                       <li class="top_li mr-lg-0"><span class="fa fa-envelope-o"></span> <a
-                              href="mailto:mananbhatt2651@gmail.com" class="mail"> mail@company.com</a>
+                              href="mailto:mananbhatt2651@gmail.com" class="mail"> deep@WorkOn.com</a>
                       </li>
                       <li class="top_li"><span class="fa fa-phone"></span> <a href="tel:+91 9898450728">+91
-                              9898450728</a>
+                              9824479617</a>
                       </li>
 
                   </ul>

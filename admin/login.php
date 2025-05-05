@@ -13,8 +13,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
     $result = mysqli_query($conn, $sql);
     $num = mysqli_num_rows($result);
             if ($num == 1){
-      
-                
                 header("location: dashboard.php");
                 $_SESSION['ad_logged_in']=true;
 				//$_SESSION['username']=$username;
